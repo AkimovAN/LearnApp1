@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Learn Application #1</string>
+    <string name="information_massage">Данное приложение разработано для изучения
+        механизмов работы <b>TextInputLayout</b>, <b>Backdrop</b>, <b>NavigationView</b>. Приложение получает
+        данные с сайта jsonplaceholder.typicode.com через Интернет.
+    </string>
+    <string name="hint_username">Логин пользователя</string>
+    <string name="hint_password">Пароль</string>
+    <string name="button_next">Далее</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="error_password">Пароль должен состоять из 6 и более символов</string>
+    <string name="error_name">Нет пользователя с таким логином </string>
+    <string name="label">New Label</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity">Посты</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="name_user1"> Марта Кацмарек</string>
+    <string name="email_user1">developer.kaczmarek@yandex.ru</string>
+    <string name="login_user1">marta97</string>
+
+    <string name="open_backdrop_list">Открыть активность с Backdrop</string>
+    <string name="open_navigationview_list">Открыть активность с NavigationView</string>
+    <string name="text_for_exception">updateIcon() must be called on an ImageView</string>
+</resources>

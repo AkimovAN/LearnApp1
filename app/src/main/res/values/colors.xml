@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#FF9800</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="darkColorText">#000000</color>
+    <color name="lightColorText">#FFFFFF</color>
+    <color name="lightColorBackground">#FFFFFF</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="swipeRefreshLayoutBackground">#FF5722</color>
+</resources>
